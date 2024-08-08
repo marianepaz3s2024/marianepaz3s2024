@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, sou uma estudante do alura, seja bem vinto ao meu perfil! 🤎
 
 <!--
 **marianepaz3s2024/marianepaz3s2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
